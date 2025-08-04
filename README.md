@@ -5,9 +5,9 @@
 💻 Passionate about the intersection of technology with sports and learning environments
 
 ## 📁 What I'm Currently Working On
-• Exploring contrastive learning to improve semantic code clone detection
-• Agentic AI to improve virtual learning environments powered by note taking software
-• Optimizing attention computation efficency on Tesla GPUs
+- Exploring contrastive learning to improve semantic code clone detection
+- Agentic AI to improve virtual learning environments powered by note taking software
+- Optimizing attention computation efficency on Tesla GPUs
 
 ## 🛠️ Skills
 - **Languages:** C, C++, Python, JavaScript, HTML/CSS, MATLAB
