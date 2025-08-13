@@ -2,7 +2,8 @@
 
 ## 💫 About Me
 🎓 Second-year Electrical and Computer Engineering student at the University of Toronto
-💻 Passionate about the intersection of technology with sports and learning environments
+
+💻 Passionate about efficient computing and ML applications to improve learning environments and data analytics within the sports industry.
 
 ## 📁 What I'm Currently Working On
 - Exploring contrastive learning to improve semantic code clone detection
