@@ -7,8 +7,9 @@
 
 ## 📁 What I'm Currently Working On
 - Exploring contrastive learning to improve semantic code clone detection
-- Agentic AI to improve virtual learning environments powered by note taking software
 - Optimizing attention computation efficency on Tesla GPUs
+- Inference time knowledge base via RAG
+- RAG-based methods for step-by-step LLM responses
 
 ## 🛠️ Skills
 - **Languages:** C, C++, Python, JavaScript, HTML/CSS, MATLAB
