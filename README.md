@@ -8,7 +8,6 @@
 ## 📁 What I'm Currently Working On
 - Exploring contrastive learning to improve semantic code clone detection
 - Optimizing attention computation efficency on Tesla GPUs
-- Inference time knowledge base via RAG
 - RAG-based methods for step-by-step LLM responses
 
 ## 🛠️ Skills
