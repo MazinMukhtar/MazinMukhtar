@@ -13,4 +13,4 @@
 
 ## 🛠️ Skills
 - **Languages:** C, C++, Python, JavaScript, HTML/CSS, MATLAB
-- **Tools & Frameworks:** PyTorch, React
+- **Tools & Frameworks:** PyTorch, React, Triton
