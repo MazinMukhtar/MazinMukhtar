@@ -6,10 +6,8 @@
 💻 Passionate about efficient computing and ML applications to improve learning environments and data analytics within the sports industry.
 
 ## 📁 What I'm Currently Working On
-- Exploring contrastive learning to improve semantic code clone detection
-- Optimizing attention computation efficency on Tesla GPUs
-- RAG-based methods for step-by-step LLM responses
+- School!
 
 ## 🛠️ Skills
-- **Languages:** C, C++, Python, JavaScript, HTML/CSS, MATLAB
-- **Tools & Frameworks:** PyTorch, React, Triton
+- **Languages:** C, C++, Python, JavaScript, HTML/CSS, MATLAB, Verilog
+- **Tools & Frameworks:** PyTorch, React
