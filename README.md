@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-💻 Passionate about efficient computing and ML applications to improve learning environments and data analytics within the sports industry.
+🎓 Undergraduate Electrical and Computer Engineering student at the University of Toronto.
 
 💻 Passionate about theoretical machine learning and in particular trustworthy machine learning.
 
