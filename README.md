@@ -4,7 +4,7 @@
 
 🎓 Undergraduate Electrical and Computer Engineering student at the University of Toronto.
 
-💻 Passionate about theoretical machine learning and in particular trustworthy machine learning.
+💻 Passionate about theoretical machine learning and in particular building robust and trustworthy machine learning systems.
 
 ## 📁 What I'm Currently Working On
 - Interning at the CleverHans Lab (University of Toronto & Vector Institute)
